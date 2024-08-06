@@ -1,0 +1,5 @@
+my:
+  greeting: Welcome to greatlearning class for beginner
+  appName: config 1
+  list:
+    values: apple,banana
